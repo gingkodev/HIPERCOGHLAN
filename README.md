@@ -23,10 +23,10 @@ DATA INPUT: parametros reactivos a lectura de datos en vivo (scraping, localdata
 
 1.  estética y menú de selección de players línea VIRTUA TENNIS 2 - assets tipo psone (ENDLESS) de coghlan como jugador de tenis en varios arquetipos de la epoca (t. haas, el viejo de lars ulrich, agassi bald, todo eso) FIGMA / PHOTOSHOP / ILLUSTRATOR. cada player lleva a una PIEZA nueva (cantidad ideal, je. puede no ser una por cancion, esto puede ser para un single o algo asi)  
 
-    ![MENU](../img/logo-virtua-tennis-2.png)
-    ![MENU](../img/menu-virtua-tennis-2.jpg)
-    ![MENU](../img/rafter.jpg)
-    ![MENU](../img/menu2.jpg)
+    ![MENU](img/logo-virtua-tennis-2.png)
+    ![MENU](img/menu-virtua-tennis-2.jpg)
+    ![MENU](img/rafter.jpg)
+    ![MENU](img/menu2.jpg)
 - LINKS
     - VIRTUA TENNIS 2 https://www.youtube.com/watch?v=ur340iaWkDQ 
     - ENDLESS <https://endless.io>
